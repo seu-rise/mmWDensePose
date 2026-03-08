@@ -7,3 +7,5 @@ scripts/
 logs/
 checkpoints/
 requirements.txt
+README copy.md
+main.py
