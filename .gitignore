@@ -1,0 +1,9 @@
+core/
+data/
+dataset/
+\__pycache__/
+lit/
+scripts/
+logs/
+checkpoints/
+requirements.txt
